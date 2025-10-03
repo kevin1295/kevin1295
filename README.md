@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kevin1295
-- 👀 I’m interested in C++, windows, HarmonyOS
-- 🌱 I’m currently learning C++ on Windows
-- 💞️ I’m looking to collaborate on China's development
+- 👀 I’m interested in C++, Python as well as Deep Learning, Embedded System
+- 🌱 I’m currently learning GCN and Image Registration
+- 💞️ I’m looking to pursuing further studies in the field of deep learning
 - 📫 How to reach me : E-mail: 1974394215@qq.com
 
 <!---
