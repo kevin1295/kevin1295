@@ -35,7 +35,6 @@ Familiar: SQL (Database Design), Shell (Linux Scripting)
 - Graph Neural Networks & structural data analysis
 - AI algorithm lightweight deployment on embedded platforms
 - Autonomous driving perception & simulation engineering
-- Practical application of ML in industrial scenarios (anti pure theoretical research)
 
 ### 📖 Learning & Academic Aspiration
 As an undergraduate student, I'm actively seeking opportunities to:
