@@ -10,7 +10,7 @@ Focus on **machine learning algorithm design** and **AI engineering deployment**
 ### 💻 Technical Skills
 - **Languages**: Python (Proficient), C/C++ (Proficient), SQL, Shell
 - **Tools/Frameworks**: PyTorch, Scikit-learn, Docker, Linux, Git, ROS2 (Basic), Qt(C++ & Python)
-- **Platforms**: RK3566, Intel x86_64 (Algorithm Deployment Practice)
+- **Platforms**: RK3588, Intel x86_64 (Algorithm Deployment Practice)
 
 ### 🔍 Interests & Aspiration
 - Graph Neural Networks, AI lightweight deployment, autonomous driving engineering
